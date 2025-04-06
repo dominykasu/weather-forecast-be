@@ -91,7 +91,7 @@ PostgreSQL is used as the persistent storage for logging user actions. The `logs
 
 1.  **Clone the GitHub repository:**
     ```bash
-    git clone [YOUR_GITHUB_REPOSITORY_URL_HERE]
+    git clone https://github.com/dominykasu/weather-forecast-be
     cd weather-forecast-app/backend
     ```
 2.  **Install dependencies:**
